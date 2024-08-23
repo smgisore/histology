@@ -1,4 +1,1 @@
-
-
-#ignore all txt files
-*txt
+hii
